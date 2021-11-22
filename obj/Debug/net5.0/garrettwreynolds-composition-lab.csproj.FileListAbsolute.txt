@@ -1,0 +1,16 @@
+C:\Users\gmane\source\repos\garrettwreynolds-composition-lab\bin\Debug\net5.0\garrettwreynolds-composition-lab.exe
+C:\Users\gmane\source\repos\garrettwreynolds-composition-lab\bin\Debug\net5.0\garrettwreynolds-composition-lab.deps.json
+C:\Users\gmane\source\repos\garrettwreynolds-composition-lab\bin\Debug\net5.0\garrettwreynolds-composition-lab.runtimeconfig.json
+C:\Users\gmane\source\repos\garrettwreynolds-composition-lab\bin\Debug\net5.0\garrettwreynolds-composition-lab.runtimeconfig.dev.json
+C:\Users\gmane\source\repos\garrettwreynolds-composition-lab\bin\Debug\net5.0\garrettwreynolds-composition-lab.dll
+C:\Users\gmane\source\repos\garrettwreynolds-composition-lab\bin\Debug\net5.0\ref\garrettwreynolds-composition-lab.dll
+C:\Users\gmane\source\repos\garrettwreynolds-composition-lab\bin\Debug\net5.0\garrettwreynolds-composition-lab.pdb
+C:\Users\gmane\source\repos\garrettwreynolds-composition-lab\obj\Debug\net5.0\garrettwreynolds-composition-lab.csproj.AssemblyReference.cache
+C:\Users\gmane\source\repos\garrettwreynolds-composition-lab\obj\Debug\net5.0\garrettwreynolds-composition-lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gmane\source\repos\garrettwreynolds-composition-lab\obj\Debug\net5.0\garrettwreynolds-composition-lab.AssemblyInfoInputs.cache
+C:\Users\gmane\source\repos\garrettwreynolds-composition-lab\obj\Debug\net5.0\garrettwreynolds-composition-lab.AssemblyInfo.cs
+C:\Users\gmane\source\repos\garrettwreynolds-composition-lab\obj\Debug\net5.0\garrettwreynolds-composition-lab.csproj.CoreCompileInputs.cache
+C:\Users\gmane\source\repos\garrettwreynolds-composition-lab\obj\Debug\net5.0\garrettwreynolds-composition-lab.dll
+C:\Users\gmane\source\repos\garrettwreynolds-composition-lab\obj\Debug\net5.0\ref\garrettwreynolds-composition-lab.dll
+C:\Users\gmane\source\repos\garrettwreynolds-composition-lab\obj\Debug\net5.0\garrettwreynolds-composition-lab.pdb
+C:\Users\gmane\source\repos\garrettwreynolds-composition-lab\obj\Debug\net5.0\garrettwreynolds-composition-lab.genruntimeconfig.cache
